@@ -1,2 +1,2 @@
 # Maze Game
- Early code project from my Codepen. Uploaded.
+ Early code project from my Codepen.
